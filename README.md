@@ -1,2 +1,2 @@
 # Credicxo
-Assignment
+Assignment for Internship - Deep Learning
